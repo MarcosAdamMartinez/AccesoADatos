@@ -15,6 +15,7 @@ public class PruebaPokemon {
         Pokemon p4 = new Pokemon("Bidoof","Jesucristo",78,"Golpe Roca,Corte,Fuerza,Surf",245);
         Pokemon p5 = new Pokemon("Yveltal","Mandangon",73,"Fuerza Lunar,Carantoña,Esfera Aural,Testarazo",736);
         Pokemon p6 = new Pokemon("Yveltal","Mandangon",73,"Golpe Bajo,Pulso Umbrio,Hiperrayo,Pajaro Osado",736);
+        Pokemon p7 = new Pokemon("Yveltal","Mandangon",73,"Fuerza Lunar,Carantoña,Esfera Aural,Testarazo",736);
 
         List<Pokemon> equipo = new ArrayList<Pokemon>();
         Set<Pokemon> equipo2 = new LinkedHashSet<Pokemon>();
@@ -53,6 +54,7 @@ public class PruebaPokemon {
         mapa.añadirPokemon(p4);
         mapa.añadirPokemon(p5);
         mapa.añadirPokemon(p6);
+        mapa.añadirPokemon(p7);
 
         System.out.println(equipo);
         System.out.println("\n\n");

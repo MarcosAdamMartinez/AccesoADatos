@@ -36,13 +36,13 @@ public class PruebaPokemon {
         equipo2.add(p4);
         equipo2.add(p5);
         equipo2.add(p6);
+        equipo2.add(p7);
 
 //        equipo3.put("Xerneas",new ArrayList<Pokemon>());
 //        equipo3.put("Camerupt",new ArrayList<Pokemon>());
 //        equipo3.put("Arceus",new ArrayList<Pokemon>());
 //        equipo3.put("Bidoof",new ArrayList<Pokemon>());
 //        equipo3.put("Yveltal",new ArrayList<Pokemon>());
-
 //        equipo3.get("Xerneas").add(p1);
 //        equipo3.get("Camerupt").add(p2);
 //        equipo3.get("Arceus").add(p3);
